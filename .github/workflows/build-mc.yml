@@ -204,7 +204,7 @@ jobs:
 
             > **Automated nightly builds of MinIO Client binaries and Docker images**
             >
-            > Provided as a public service by [Lithus](https://lithus.eu/)
+            > Provided as a public service by [Cubject](https://cubject.com/)
 
             **Version:** `${{ needs.get-version.outputs.version }}`
             **Build Date:** ${{ github.event.repository.updated_at }}

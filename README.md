@@ -2,7 +2,7 @@
 
 > **Automated nightly builds of MinIO Community Edition binaries and Docker images**
 > 
-> Provided as a public service by [Lithus](https://lithus.eu/)
+> Provided as a public service by [Cubject](https://cubject.com/)
 
 ## Why This Exists
 
@@ -95,7 +95,7 @@ Each release includes:
 
 Need help deploying MinIO at scale or optimizing your object storage infrastructure?
 
-**[Contact Lithus →](https://lithus.eu/about)**
+**[Contact Cubject →](https://cubject.com/support)**
 
 Our DevOps and SRE teams specialize in high-performance storage systems, Kubernetes deployments, and infrastructure automation.
 
@@ -105,7 +105,7 @@ These builds are provided as-is, without warranty. While we strive for reliabili
 
 - Building from source yourself
 - [MinIO AIStor](https://www.min.io/product/aistor) (official enterprise edition)
-- [Lithus managed infrastructure services](https://lithus.eu/)
+- [Cubject Support Services](https://cubject.com/support)
 
 ## Contributing
 
@@ -122,4 +122,4 @@ Want to run these builds yourself? Fork this repository and:
 
 ---
 
-**Maintained with ❤️ by the [Lithus](https://lithus.eu/) team**
+**Maintained with ❤️ by the [Cubject](https://cubject.com/) team**
