@@ -81,10 +81,10 @@ jobs:
         include:
           - os: linux
             arch: amd64
-            runner: ubuntu-24.04-8core
+            runner: minio
           - os: linux
             arch: arm64
-            runner: ubuntu-24.04-4core-arm64
+            runner: minio
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

@@ -78,13 +78,13 @@ jobs:
         include:
           - os: linux
             arch: amd64
-            runner: ubuntu-24.04
+            runner: minio
             docker: true
             binary_name: mc
             artifact_name: mc-linux-amd64
           - os: linux
             arch: arm64
-            runner: ubuntu-24.04-arm
+            runner: minio
             docker: true
             binary_name: mc
             artifact_name: mc-linux-arm64
